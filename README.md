@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bcornet8004, I am a PhD in Finance from EPFL, using machine learning and NLP to predict market events (e.g. Central Bank annoucements)
+- 👋 Hi, I’m @bcornet8004, I am a PhD in Finance from EPFL, using machine learning and NLP to investigate the relationship between monetary policy communication and movements in asset prices
 - 👀 I’m interested in Machine Learning and NLP
 - 🚀 I am now a Postdoc at the University of St.Gallen, working on the economics of the space sector.
 
